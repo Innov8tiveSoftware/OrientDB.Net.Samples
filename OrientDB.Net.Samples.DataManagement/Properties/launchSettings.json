@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OrientDB.Net.Samples.DataManagement": {
+      "commandName": "Project",
+      "commandLineArgs": "192.168.15.237 root root 2424 demodatabase"
+    }
+  }
+}
